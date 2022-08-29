@@ -29,7 +29,7 @@
 
 Reading Large Files
 
-This project is to read a very large .csv file in python and then display the data in a readable format using C#
+This project is to read a very large xml file in python and convert it to csv then display the data in a readable format using C#
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
